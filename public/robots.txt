@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block all admin/dashboard/maintainance paths
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /maintainance
+Disallow: /maintainance/
+
+Sitemap: https://herimmigranttales.org/sitemap.xml
