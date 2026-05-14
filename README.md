@@ -1,6 +1,6 @@
-# 🌿 HIT – eCommerce Admin Dashboard & Storefront
+# 🌿 HIT – Admin Dashboard & Storefront
 
-HIT is a full-featured herbal products eCommerce system built with **Next.js**, **Prisma**, **PostgreSQL**, **Neon**, **Cloudinary**, and **Paystack**. It includes a powerful admin dashboard and a lightweight public storefront. Customers can place orders and receive real-time email updates as their order progresses.
+HIT is a full-featured system built with **Next.js**, **Prisma**, **PostgreSQL**, **Neon**, **Cloudinary**, and **Paystack**. It includes a powerful admin dashboard and a lightweight public storefront. Customers can place orders and receive real-time email updates as their order progresses.
 
 ---
 
